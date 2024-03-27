@@ -9,7 +9,7 @@ This example deploys Megaport Virtual Edge (MVE) in 10 global locations and a fu
 * 1Gbps Internet Transit connected to each MVE
 * 2 x 1Gbps Private VXC between all locations
 
-Cisco specific configuration is not provided in this example. For the full list of supported network vendors see megaport.com.
+Cisco specific configuration is not provided in this example. For the full list of supported network vendors see [Link](megaport.com).
 
 ### Prerequisites
 
