@@ -22,7 +22,7 @@ Cisco specific configuration is not provided in this example. For the full list 
 * Modify the provider.tf file with your own Megaport API Key/API Key Secret.
 * Set the Megaport environment in provider.tf - this example can be deployed completely in the staging environment.
 * Generate a public/private SSH key pair and set the public key in variables.tf under the rsa_pub_key variable - this SSH key pair will be used to SSH into the Cisco C8Kv.
-* Modify the variables.tf file to suit your preferred deployment locations, MVE CPU allocation, Internet Transit size, and Private VXC size.
+* Modify the variables.tf file to suit your preferred deployment locations, MVE CPU allocation, and the main.tf for Internet Transit size, Private VXC size.
 * From the command line change to the directory containing the Terraform files.
 * Run `terraform init` to initialise Terraform and the providers.
 * Run `terraform apply` to deploy this example.
