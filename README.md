@@ -30,6 +30,7 @@ Cisco specific configuration is not provided in this example. For the full list 
 ### Notes
 
 * When you have completed, use `terraform destroy` so that you will stop incurring costs for the resources (if deployed in production).
+* To use a different version of C8Kv IOS or another network vendor OS the image ID is required. To obtain the full list of image IDs use the Megaport API call documented here: [Link](https://dev.megaport.com/#ae411b15-0989-4f7f-ac28-78e385264515)
 
 ### Testing
 
