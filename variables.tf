@@ -1,6 +1,6 @@
 variable "rsa_pub_key" {
   type        = string
-  default     = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDGR3OXcZLkzY7ydmN5TOhVSZSC3T0VeHd+a9plfcXiKVRGfIk188iEJjBWEH/JO/KWJO9BYzrpWYIC3fPgBHQKWO0UFCpUc/jFT/J3P9vNSpJjr7d/XauG/aU26XVNvEs1tMm9payQ+iwMceEOcGbR3yB5TIXtLt8KWwhiS2opzveDQqgy/C9f4A4txfMKQTXSwk7+EXZViLeGmOHtULoq+3cjRK1on2Rklk21o3WI3dzBmVMymuklskaf2sPO3i7ntGzB7xfouDCD5f2JkJAwfVOKB+evx2wk5vV+GX1+zuT4mW0tP0en+IaUhLXbUSVYvsk62QbSttCar0QAdnn/"
+  default     = "<public ssh key>"
 }
 
 variable "mve_image_id" {
