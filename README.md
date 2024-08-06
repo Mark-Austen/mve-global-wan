@@ -1,4 +1,4 @@
-This example deploys Megaport Virtual Edge (MVE) in 10 global locations and a full mesh private network between all locations using Megaports private backbone. In this scenario, the MVEs would provide regional aggregation for Internet based SD-WAN sites within the region. The following resources are deployed:
+This example deploys Megaport Virtual Edge (MVE) in 10 global locations and a full mesh private network between all locations using Megaports private backbone. In this scenario, the MVEs provide regional aggregation for Internet based SD-WAN sites within the region. The following resources are deployed:
 
 * 2 x Megaport Virtual Edge with the Cisco C8Kv in the following locations:
   * Sydney (8vCPU)
