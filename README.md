@@ -34,5 +34,5 @@ Cisco specific configuration is not provided in this example. For the full list 
 
 ### Testing
 
-* The staging environment is a simulates deployment of Megaport services only, services are not real and do not run live traffic.
+* The staging environment simulates deployment of Megaport services only, services are not real and do not run live traffic.
 * To test with live services deploy in the production environment, using the SSH key pair login to the C8Kv using the public IP address assigned to the MVE and configure IP addressing for the Private VXCs and BGP peering between MVE locations.
